@@ -928,13 +928,11 @@ const BASE_URL = "http://localhost:5050/api/chatbot";
 
 ## License
 
-This project is proprietary software developed by Trillex.
+This project is proprietary software developed by Trillex. 
 
 ---
 
 ## Support
 
-For issues or questions, please refer to:
-- Backend documentation: `InventoryMS/InventoryMS/HELP.md`
-- Chatbot integration guide: `InventoryMS/InventoryMS/CHATBOT_INTEGRATION_GUIDE.md`
-- Helper-AI documentation: `Helper-AI/README.md`
+For issues or questions, please contact me at avidabral530@gmail.com
+
